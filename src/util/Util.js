@@ -435,7 +435,7 @@ class Util extends null {
    * [255, 0, 255] // purple
    * ```
    * or one of the following strings:
-   * - `DEFAULT`
+   * - `Default`
    * - `WHITE`
    * - `AQUA`
    * - `GREEN`
